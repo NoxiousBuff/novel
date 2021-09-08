@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "22680043479",
+    "project_id": "novel-e8e2e",
+    "storage_bucket": "novel-e8e2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22680043479:android:0c51e28c2601c078de9592",
+        "android_client_info": {
+          "package_name": "com.noxiousbuff.novel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22680043479-n96v333u2i6em61570s9k4gfiapeuced.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.noxiousbuff.novel",
+            "certificate_hash": "7f73eff9d60de4d7378321ccb26553c16b4c3ecf"
+          }
+        },
+        {
+          "client_id": "22680043479-v7crqedtfa75e61d2eip8vtin4pnb58f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoF_lu0w6NC7NRr038888vPOK_kKuc9c4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22680043479-v7crqedtfa75e61d2eip8vtin4pnb58f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

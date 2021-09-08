@@ -1,0 +1,54 @@
+name: novel
+description: A new Flutter application.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.1
+  firebase_core: ^0.5.3
+  firebase_auth: ^0.18.4+1
+  google_sign_in: ^4.5.6
+  cloud_firestore: ^0.14.4
+  cached_network_image: ^2.5.0
+  image_picker: ^0.6.7+17
+  geolocator: ^6.1.13
+  firebase_storage: ^5.2.0
+  path_provider: ^1.6.24
+  image: ^2.1.19
+  uuid: ^2.2.2
+  geocoding: ^1.0.5
+  animator: ^2.0.2
+  timeago: ^2.0.29
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  # integration_test:
+  #   sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  # assets:
+  #   - images/a_dot_burr.jpeg
+  #   - images/a_dot_ham.jpeg
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: fonts/Poppins/Poppins-Medium.ttf
+
+    - family: QuickSand
+      fonts:
+        - asset: fonts/QuickSand/Quicksand-Regular.ttf
+        - asset: fonts/QuickSand/Quicksand-SemiBold.ttf
+          weight: 700
